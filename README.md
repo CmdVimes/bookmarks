@@ -14,6 +14,11 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://ghostpi.org/">GhostPi</a>
 
 
+<br><b>HomeBrew (not beer)</b>
+<br><a href="http://brew.sh">Homebrew: The missing package manager for OS X</a>
+<br><a href="http://www.bigfastblog.com/homebrew-intro-to-the-mac-os-x-package-installer">Phil Whelan's Intro to Homebrew</a>
+<br><a href="https://github.com/Homebrew/homebrew/wiki/Tips-N%27-Tricks">Homebrew Tips and Tricks</a>
+
 
 <br><b>Autos</b>
 <br><a href="http://jalopnik.com/">Jalopnik</a>
