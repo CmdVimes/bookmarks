@@ -67,7 +67,7 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>Cycling</b>
-<br><a href="http://www.bikehacks.com/bikehacks/">Bice Hacks</a>
+<br><a href="http://www.bikehacks.com/bikehacks/">Bike Hacks</a>
 
 
 <b>And the unholiest of all unholies:</b>
