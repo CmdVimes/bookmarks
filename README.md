@@ -48,6 +48,13 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.rasplex.com/">RasPlex</a>
 
 
+<br><b>Programming</b>
+<br><a href="https://www.udemy.com/">Udemy - Learn to Code</a>
+<br><a href="https://www.codeschool.com">CodeSchool</a>
+<br><a href="https://panic.com/coda/">Coda 2 - Great editor for all kinds of coding.</a>
+<br><a href="http://www.99-bottles-of-beer.net">99 Bottles of Beer - Coded in Different Languages</a>
+
+
 <br><b>Misc Geekery</b>
 <br><a href="http://cozy.io">Cozy - A Personal Cloud, you can host, hack and delete</a>
 <br><a href="http://owncloud.org">OwnCloud - Your Cloud, Your Way</a>
