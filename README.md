@@ -7,6 +7,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://users.cis.fiu.edu/~tho01/psg/sol.html">System Administrator Pocket Survival Guide - Solaris notes for Sys Admin</a>
 <br><a href="http://rainbow.chard.org/2012/01/16/upgrading-solaris-10-to-solaris-11-things-you-should-know/">Upgrade Sol 10 to Sol 11</a>
 <br><a href="http://jsosic.wordpress.com/2013/01/01/expanding-zfs-zpool-raid/">Expanding ZFS zpool</a>
+<br><a href="http://thegeekdiary.com/the-ultimate-solaris-sendmail-troubleshooting-guide/">Sendmail on Solaris Troubleshooting Guide</a>
 
 
 <br><b>OS X</b>
@@ -14,6 +15,11 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.alfredapp.com/">Alfred - Productivity App for OS X</a>
 <br><a href="http://paulherron.com/blog/simple_nginx_setup_with_homebrew/">Setup nginx with Homebrew and OS X</a>
 <br><a href="http://osxdaily.com/">OS X Daily</a>
+
+
+<br><b>Windows</b>
+<br><a href="http://community.spiceworks.com/how_to/show/88456-windows-run-commands#comments">Windows Run Commands</a>
+<br><a href="http://www.thomasmaurer.ch/2014/02/this-is-why-onenote-is-awesome/">Thomas Maurer - This is why OneNote is Awesome</a>
 
 
 <br><b>DataBases</b>
@@ -53,20 +59,29 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="https://www.codeschool.com">CodeSchool</a>
 <br><a href="https://panic.com/coda/">Coda 2 - Great editor for all kinds of coding.</a>
 <br><a href="http://www.99-bottles-of-beer.net">99 Bottles of Beer - Coded in Different Languages</a>
+<br><a href="https://coderwall.com/welcome">Coderwall</a>
+<br><a href="http://www.w3schools.com/tags/default.asp">HTML Reference @ w3schools.com</a>
+<br><a href="http://docs.python-guide.org/en/latest/">The Hitchhiker's Guide to Python</a>
 
 
 <br><b>Misc Geekery</b>
+<br><a href="http://pissedoffadmins.com">PissedOffAdmins (aren't we all)</a>
+<br><a href="http://jenkins-ci.org">Jenkins</a>
+<br><a href="http://www.rabbitmq.com/">RabbitMQ</a>
+<br><a href="http://hackaday.com/">Hack a Day</a>
 <br><a href="http://cozy.io">Cozy - A Personal Cloud, you can host, hack and delete</a>
 <br><a href="http://owncloud.org">OwnCloud - Your Cloud, Your Way</a>
 <br><a href="http://ryanstutorials.net/linuxtutorial/">Linux Tutorial</a>
 <br><a href="http://www.iflscience.com/">I FUCKING LOVE SCIENCE!</a>
 <br><a href="http://coffeescript.codeschool.com/?utm_source=github&utm_medium=coffeescript_option&utm_campaign=trygit">CodeSchool - CoffeeScript</a>
 <br><a href="http://theoatmeal.com/comics/tesla_model_s">The Oatmeal - Owning a Tesla Model S</a>
+<br><a href="https://panic.com/coda/buy.html">Coda 2 (I use it)</a>
 <br><a href="https://www.xkpasswd.net/c/index.cgi">XKPassword</a>
 <br><a href="http://excel2wiki.net">Excel to Wiki format converter</a>
 <br><a href="http://www.rhino3d.com">Rhinoceros - Awesome 3D Software</a>
 <br><a href="https://grandst.com/">Grand St. - Hardware Crowdsourcing Platform</a>
 <br><a href="http://www.terrypratchettbooks.com">Sir Terry Pratchett</a>
+<br><a href="http://sproutcore.com">Sproutcore</a> and the <a href="http://guides.sproutcore.com">Guides</a>
 
 
 <br><b>Autos</b>
