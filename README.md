@@ -75,11 +75,11 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.iflscience.com/">I FUCKING LOVE SCIENCE!</a>
 <br><a href="http://coffeescript.codeschool.com/?utm_source=github&utm_medium=coffeescript_option&utm_campaign=trygit">CodeSchool - CoffeeScript</a>
 <br><a href="http://theoatmeal.com/comics/tesla_model_s">The Oatmeal - Owning a Tesla Model S</a>
-<br><a href="https://panic.com/coda/buy.html">Coda 2 (I use it)</a>
-<br><a href="https://www.xkpasswd.net/c/index.cgi">XKPassword</a>
-<br><a href="http://excel2wiki.net">Excel to Wiki format converter</a>
-<br><a href="http://www.rhino3d.com">Rhinoceros - Awesome 3D Software</a>
-<br><a href="https://grandst.com/">Grand St. - Hardware Crowdsourcing Platform</a>
+<br><a href="https://panic.com/coda/buy.html">Coda 2</a> (I use it)
+<br><a href="https://www.xkpasswd.net/c/index.cgi">XKPassword</a> Password Generator
+<br><a href="http://excel2wiki.net">Excel2Wiki</a> A format converter to add Excel tables to your Wiki
+<br><a href="http://www.rhino3d.com">Rhinoceros</a> Awesome 3D Software
+<br><a href="https://grandst.com/">Grand St.</a>Hardware Crowdsourcing Platform
 <br><a href="http://www.terrypratchettbooks.com">Sir Terry Pratchett</a>
 <br><a href="http://sproutcore.com">Sproutcore</a> and the <a href="http://guides.sproutcore.com">Guides</a>
 
