@@ -65,22 +65,22 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>Misc Geekery</b>
-<br><a href="http://pissedoffadmins.com">PissedOffAdmins (aren't we all)</a>
+<br><a href="http://pissedoffadmins.com">PissedOffAdmins</a> Aren't we all?
 <br><a href="http://jenkins-ci.org">Jenkins</a>
-<br><a href="http://www.rabbitmq.com/">RabbitMQ</a>
-<br><a href="http://hackaday.com/">Hack a Day</a>
-<br><a href="http://cozy.io">Cozy - A Personal Cloud, you can host, hack and delete</a>
-<br><a href="http://owncloud.org">OwnCloud - Your Cloud, Your Way</a>
-<br><a href="http://ryanstutorials.net/linuxtutorial/">Linux Tutorial</a>
-<br><a href="http://www.iflscience.com/">I FUCKING LOVE SCIENCE!</a>
-<br><a href="http://coffeescript.codeschool.com/?utm_source=github&utm_medium=coffeescript_option&utm_campaign=trygit">CodeSchool - CoffeeScript</a>
+<br><a href="http://www.rabbitmq.com/">RabbitMQ</a> 
+<br><a href="http://hackaday.com/">Hack a Day</a> See who/what is Hacking today. 
+<br><a href="http://cozy.io">Cozy</a> A Personal Cloud, you can host, hack and delete
+<br><a href="http://owncloud.org">OwnCloud</a> Your Cloud, Your Way
+<br><a href="http://ryanstutorials.net/linuxtutorial/">Linux Tutorial</a> From Ryan's Tutorials, good basic how to. 
+<br><a href="http://www.iflscience.com/">I FUCKING LOVE SCIENCE!</a> Doesn't Everyone?
+<br><a href="http://coffeescript.codeschool.com/?utm_source=github&utm_medium=coffeescript_option&utm_campaign=trygit">CoffeeScript</a> Learn CoffeeScript @ CodeSchool
 <br><a href="http://theoatmeal.com/comics/tesla_model_s">The Oatmeal - Owning a Tesla Model S</a>
 <br><a href="https://panic.com/coda/buy.html">Coda 2</a> (I use it)
 <br><a href="https://www.xkpasswd.net/c/index.cgi">XKPassword</a> Password Generator
 <br><a href="http://excel2wiki.net">Excel2Wiki</a> A format converter to add Excel tables to your Wiki
 <br><a href="http://www.rhino3d.com">Rhinoceros</a> Awesome 3D Software
-<br><a href="https://grandst.com/">Grand St.</a>Hardware Crowdsourcing Platform
-<br><a href="http://www.terrypratchettbooks.com">Sir Terry Pratchett</a>
+<br><a href="https://grandst.com/">Grand St.</a> Hardware Crowdsourcing Platform
+<br><a href="http://www.terrypratchettbooks.com">Sir Terry Pratchett</a> Site for all things Pratchett
 <br><a href="http://sproutcore.com">Sproutcore</a> and the <a href="http://guides.sproutcore.com">Guides</a>
 
 
