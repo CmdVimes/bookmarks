@@ -95,7 +95,47 @@ Collection of book marks I find useful and/or entertaining.
 
 <b>And the unholiest of all unholies:</b>
 <br><a href="http://www.reddit.com/">Reddit:</a> It will suck all your time and you <i>might even</i> learn something. 
-
-
-
-
+<i>Favorite Sub-Reddits</i>
+<br><a href="http://www.reddit.com/r/3Dprinting/">3Dprinting:</a> Print your ideas. 
+<br><a href="http://www.reddit.com/r/Android">Android:</a> Android OS
+<br><a href="http://www.reddit.com/r/Bacon">Bacon:</a> All things Bacon, and thank god for that. 
+<br><a href="http://www.reddit.com/r/BBQ">BBQ:</a> BarBeQue, likely our greatest invention. 
+<br><a href="http://www.reddit.com/r/bourbon">Bourbon:</a> America's finest whiskey. 
+<br><a href="http://www.reddit.com/r/Breadit">Breadit:</a> Make some damn bread. It's not that hard. 
+<br><a href="http://www.reddit.com/r/cars">Cars:</a> Lots of cars, all types. 
+<br><a href="http://www.reddit.com/r/Chromecast">Cromecast:</a> For your best Chromecasting experience. 
+<br><a href="http://www.reddit.com/r/Coffee">Coffee:</a> Without it we would be lost. 
+<br><a href="http://www.reddit.com/r/Cooking">Cooking:</a> Learn to feed yourself, and those you love. 
+<br><a href="http://www.reddit.com/r/dataisbeatiful">DataIsBeautiful:</a> A place for visual representations of data: Graphs, charts, maps, etc.
+<br><a href="http://www.reddit.com/r/DIY">DIY:</a> Do It Yourself. Make something. 
+<br><a href="http://www.reddit.com/r/firefly">Firefly:</a> Our favorite cancelled show. 
+<br><a href="http://www.reddit.com/r/football">Football:</a> Soccor to you Americans. 
+<br><a href="http://www.reddit.com/r/formula1">Formula One:</a> Fast, Load, Crazy, and that's just Bernie. 
+<br><a href="http://www.reddit.com/r/gadgets">Gadgets:</a> Plenty of things to waste your money on. 
+<br><a href="http://www.reddit.com/r/github">Github:</a> Github projects and contributors.  
+<br><a href="http://www.reddit.com/r/Gunners">Gunners:</a> Arsenal. The only club that matters. 
+<br><a href="http://www.reddit.com/r/hacking">Hacking:</a> Have fun hacking things with your friends.
+<br><a href="http://www.reddit.com/r/html5">HTML5:</a> Our new standard. 
+<br><a href="http://www.reddit.com/r/javascript">JavaScript:</a> Lots of JS information. 
+<br><a href="http://www.reddit.com/r/learnpython">LearnPython:</a> Python - Learn it. 
+<br><a href="http://www.reddit.com/r/lego">Lego:</a> Get inspired. 
+<br><a href="http://www.reddit.com/r/linux">Linux:</a> Your bread is likely buttered on this side.
+<br><a href="http://www.reddit.com/r/mac">Mac:</a> Shiny, Happy computers. 
+<br><a href="http://www.reddit.com/r/mongodb">MongoDB:</a> NoSQL your data off. 
+<br><a href="http://www.reddit.com/r/nagios">Nagios:</a> Monitor that shit, son. 
+<br><a href="http://www.reddit.com/r/Offal">Offal:</a> All the extra bits. Yum!
+<br><a href="http://www.reddit.com/r/PleX">PleX:</a> Serve media to lots of different devices. 
+<br><a href="http://www.reddit.com/r/Python">Python:</a> Scripts, news, and info on Python. 
+<br><a href="http://www.reddit.com/r/raspberry_pi">Rasberry Pi:</a> What you can do with an RPi. 
+<br><a href="http://www.reddit.com/r/StarWars">Star Wars:</a> I'm not explaining this one. 
+<br><a href="http://www.reddit.com/r/swift">Swift:</a> Apple's new language of iOS and OS X. 
+<br><a href="http://www.reddit.com/r/sysadmin">SysAdmin:</a> I recommend Whisky and Coffee, fixes most issues, technical and otherwise. 
+<br><a href="http://www.reddit.com/r/talesfromtechsupport">Tales From Tech Support:</a> Be sure to check out; <a href="http://my.reddit.com/search?q=reddit%3Atalesfromtechsupport+author%3Aairz23&restrict_sr=off&sort=new&t=all">Airz23,</a> <a href="http://www.reddit.com/r/talesfromtechsupport/search?q=lawtechie&sort=new&restrict_sr=on&t=all">LawTechie,</a> <a href="http://www.reddit.com/r/talesfromtechsupport/search?q=bytewave&sort=new&restrict_sr=on&t=all">ByteWave,</a> <a href="http://www.reddit.com/r/talesfromtechsupport/search?q=techgurl8721&sort=new&restrict_sr=on&t=all">TechCurl8721,</a> <a href="http://www.reddit.com/r/talesfromtechsupport/search?q=chhopsky&sort=new&restrict_sr=on&t=all">Chhopsky,</a> and many others. 
+<br><a href="http://www.reddit.com/r/TopGear">Top Gear:</a> The real one. 
+<br><a href="http://www.reddit.com/r/usefulscripts">Useful Scripts:</a> Very useful indeed. 
+<br><a href="http://www.reddit.com/r/webdev">WebDev:</a> Develop the Web. 
+<br><a href="http://www.reddit.com/r/wegmans">Wegmans:</a> The only grocers that matters. Woe to all who do not reside in a Wegman'd location. 
+<br><a href="http://www.reddit.com/r/whisky">Whisky:</a> The perfect end to any day. And the occasionally required start. 
+<br><a href="http://www.reddit.com/r/xboxone">XBox One:</a> Play a game. Preferably Forza. 
+<br><a href="http://www.reddit.com/r/zombies">Zombies:</a> BBBRRRAAAAIIINNNNNSSSSSS!!!!
+<br>
