@@ -95,7 +95,7 @@ Collection of book marks I find useful and/or entertaining.
 
 <b>And the unholiest of all unholies:</b>
 <br><a href="http://www.reddit.com/">Reddit:</a> It will suck all your time and you <i>might even</i> learn something. 
-<i>Favorite Sub-Reddits</i>
+<br><br><i>Favorite Sub-Reddits</i>
 <br><a href="http://www.reddit.com/r/3Dprinting/">3Dprinting:</a> Print your ideas. 
 <br><a href="http://www.reddit.com/r/Android">Android:</a> Android OS
 <br><a href="http://www.reddit.com/r/Bacon">Bacon:</a> All things Bacon, and thank god for that. 
