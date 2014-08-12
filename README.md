@@ -86,15 +86,15 @@ Collection of book marks I find useful and/or entertaining.
 
 <br><b>Autos</b>
 <br><a href="http://jalopnik.com/">Jalopnik</a>
-<br><a href="https://www.youtube.com/watch?v=E9IWiTpWeiM">McLaren P1 vs. The Nordschleife</a>
+<br><a href="https://www.youtube.com/watch?v=E9IWiTpWeiM">McLaren P1 vs. The Nordschleife:</a> The mighty McLaren hypercar runs the 'ring'. 
 
 
 <br><b>Cycling</b>
-<br><a href="http://www.bikehacks.com/bikehacks/">Bike Hacks</a>
+<br><a href="http://www.bikehacks.com/bikehacks/">Bike Hacks:</a> Hacks for your two wheeled, human powered ride. 
 
 
 <b>And the unholiest of all unholies:</b>
-<br><a href="http://www.reddit.com/">Reddit</a>
+<br><a href="http://www.reddit.com/">Reddit:</a> It will suck all your time and you <i>might even</i> learn something. 
 
 
 
