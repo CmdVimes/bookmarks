@@ -55,13 +55,13 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>Programming</b>
-<br><a href="https://www.udemy.com/">Udemy</a>: Learn to Code
-<br><a href="https://www.codeschool.com">CodeSchool</a>: Also, Learn to Code
-<br><a href="https://panic.com/coda/">Coda 2</a>: Great editor for all kinds of coding.
-<br><a href="http://www.99-bottles-of-beer.net">99 Bottles of Beer</a>: Coded in Different Languages
-<br><a href="https://coderwall.com/welcome">Coderwall</a>: Great Ideas from people who do the heavy lifting in the world of IT. 
-<br><a href="http://www.w3schools.com/tags/default.asp">HTML Reference</a>: From w3schools.com
-<br><a href="http://docs.python-guide.org/en/latest/">The Hitchhiker's Guide to Python</a>: Train up on your Python scripting. 
+<br><a href="https://www.udemy.com/">Udemy:</a> Learn to Code
+<br><a href="https://www.codeschool.com">CodeSchool:</a> Also, Learn to Code
+<br><a href="https://panic.com/coda/">Coda 2:</a> Great editor for all kinds of coding.
+<br><a href="http://www.99-bottles-of-beer.net">99 Bottles of Beer:</a> Coded in Different Languages
+<br><a href="https://coderwall.com/welcome">Coderwall:</a> Great Ideas from people who do the heavy lifting in the world of IT. 
+<br><a href="http://www.w3schools.com/tags/default.asp">HTML Reference:</a> From w3schools.com
+<br><a href="http://docs.python-guide.org/en/latest/">The Hitchhiker's Guide to Python:</a> Train up on your Python scripting. 
 
 
 <br><b>Misc Geekery</b>
