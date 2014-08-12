@@ -76,16 +76,16 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://coffeescript.codeschool.com/?utm_source=github&utm_medium=coffeescript_option&utm_campaign=trygit">CoffeeScript</a> Learn CoffeeScript @ CodeSchool
 <br><a href="http://theoatmeal.com/comics/tesla_model_s">The Oatmeal - Owning a Tesla Model S</a>
 <br><a href="https://panic.com/coda/buy.html">Coda 2</a> (I use it)
-<br><a href="https://www.xkpasswd.net/c/index.cgi">XKPassword</a> Password Generator
-<br><a href="http://excel2wiki.net">Excel2Wiki</a> A format converter to add Excel tables to your Wiki
-<br><a href="http://www.rhino3d.com">Rhinoceros</a> Awesome 3D Software
-<br><a href="https://grandst.com/">Grand St.</a> Hardware Crowdsourcing Platform
-<br><a href="http://www.terrypratchettbooks.com">Sir Terry Pratchett</a> Site for all things Pratchett
-<br><a href="http://sproutcore.com">Sproutcore</a> and the <a href="http://guides.sproutcore.com">Guides</a>
+<br><a href="https://www.xkpasswd.net/c/index.cgi">XKPassword:</a> Password Generator based on <a href="http://xkcd.com/936/">An XKCD comic.</a>
+<br><a href="http://excel2wiki.net">Excel2Wiki:</a> A format converter to add Excel tables to your Wiki
+<br><a href="http://www.rhino3d.com">Rhinoceros:</a> Awesome 3D Software
+<br><a href="https://grandst.com/">Grand St:</a> Hardware Crowdsourcing Platform
+<br><a href="http://www.terrypratchettbooks.com">Sir Terry Pratchett:</a> Site for all things Pratchett
+<br><a href="http://sproutcore.com">Sproutcore:</a> and the <a href="http://guides.sproutcore.com">Guides:</a> Open-source JavaScript framework, allowing developers to create web applications.
 
 
 <br><b>Autos</b>
-<br><a href="http://jalopnik.com/">Jalopnik</a>
+<br><a href="http://jalopnik.com/">Jalopnik:</a> Too many articles on cars, and they are mostly well written. 
 <br><a href="https://www.youtube.com/watch?v=E9IWiTpWeiM">McLaren P1 vs. The Nordschleife:</a> The mighty McLaren hypercar runs the 'ring'. 
 
 
@@ -99,7 +99,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.reddit.com/r/3Dprinting/">3Dprinting:</a> Print your ideas. 
 <br><a href="http://www.reddit.com/r/Android">Android:</a> Android OS
 <br><a href="http://www.reddit.com/r/Bacon">Bacon:</a> All things Bacon, and thank god for that. 
-<br><a href="http://www.reddit.com/r/BBQ">BBQ:</a> BarBeQue, likely our greatest invention. 
+<br><a href="http://www.reddit.com/r/BBQ">BBQ:</a> Bar-B-Que, likely our greatest invention. 
 <br><a href="http://www.reddit.com/r/bourbon">Bourbon:</a> America's finest whiskey. 
 <br><a href="http://www.reddit.com/r/Breadit">Breadit:</a> Make some damn bread. It's not that hard. 
 <br><a href="http://www.reddit.com/r/cars">Cars:</a> Lots of cars, all types. 
