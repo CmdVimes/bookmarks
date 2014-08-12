@@ -65,13 +65,13 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>Misc Geekery</b>
-<br><a href="http://pissedoffadmins.com">PissedOffAdmins</a> Aren't we all?
-<br><a href="http://jenkins-ci.org">Jenkins</a>
-<br><a href="http://www.rabbitmq.com/">RabbitMQ</a> 
-<br><a href="http://hackaday.com/">Hack a Day</a> See who/what is Hacking today. 
-<br><a href="http://cozy.io">Cozy</a> A Personal Cloud, you can host, hack and delete
-<br><a href="http://owncloud.org">OwnCloud</a> Your Cloud, Your Way
-<br><a href="http://ryanstutorials.net/linuxtutorial/">Linux Tutorial</a> From Ryan's Tutorials, good basic how to. 
+<br><a href="http://pissedoffadmins.com">PissedOffAdmins:</a> Aren't we all? (yes, we are)
+<br><a href="http://jenkins-ci.org">Jenkins:</a> Continuous Integration Tool. 
+<br><a href="http://www.rabbitmq.com/">RabbitMQ:</a> Open Source Message Broker.  
+<br><a href="http://hackaday.com/">Hack a Day:</a> See who/what is Hacking today. 
+<br><a href="http://cozy.io">Cozy:</a> A Personal Cloud, you can host, hack and delete
+<br><a href="http://owncloud.org">OwnCloud:</a> Your Cloud, Your Way
+<br><a href="http://ryanstutorials.net/linuxtutorial/">Linux Tutorial:</a> From Ryan's Tutorials, good basic how to. 
 <br><a href="http://www.iflscience.com/">I FUCKING LOVE SCIENCE!</a> Doesn't Everyone?
 <br><a href="http://coffeescript.codeschool.com/?utm_source=github&utm_medium=coffeescript_option&utm_campaign=trygit">CoffeeScript:</a> Learn CoffeeScript @ CodeSchool
 <br><a href="http://theoatmeal.com/comics/tesla_model_s">The Oatmeal - Owning a Tesla Model S:</a> What it's like day to day with a Model S in your driveway. Lucky Bastard. 
