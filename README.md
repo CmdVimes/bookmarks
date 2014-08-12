@@ -40,8 +40,8 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>Rasberry Pi</b>
-<br><a href="http://elinux.org/RPi_Buying_Guide">RPi Buying Guide</a>
-<br><a href="http://elinux.org/RPi_Hardware_Basic_Setup#Typical_Hardware_You_Will_Need">RPi Basis Setup</a>
+<br><a href="http://elinux.org/RPi_Buying_Guide"> RPi Buying Guide</a>What to buy and where. 
+<br><a href="http://elinux.org/RPi_Hardware_Basic_Setup#Typical_Hardware_You_Will_Need"> RPi Basic Setup</a> How to setup you RPi
 <br><a href="http://ghostpi.org/">GhostPi</a>
 <br><a href="http://kimondo.co.uk/plotting-cpu-temperature-ghost/">Add Temp Gauge to RPi and publish to Ghost Blog</a>
 <br><a href="http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/">RPi XBMC Tutorial</a>
@@ -55,13 +55,13 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>Programming</b>
-<br><a href="https://www.udemy.com/">Udemy - Learn to Code</a>
-<br><a href="https://www.codeschool.com">CodeSchool</a>
-<br><a href="https://panic.com/coda/">Coda 2 - Great editor for all kinds of coding.</a>
-<br><a href="http://www.99-bottles-of-beer.net">99 Bottles of Beer - Coded in Different Languages</a>
-<br><a href="https://coderwall.com/welcome">Coderwall</a>
-<br><a href="http://www.w3schools.com/tags/default.asp">HTML Reference @ w3schools.com</a>
-<br><a href="http://docs.python-guide.org/en/latest/">The Hitchhiker's Guide to Python</a>
+<br><a href="https://www.udemy.com/">Udemy</a>: Learn to Code
+<br><a href="https://www.codeschool.com">CodeSchool</a>: Also, Learn to Code
+<br><a href="https://panic.com/coda/">Coda 2</a>: Great editor for all kinds of coding.
+<br><a href="http://www.99-bottles-of-beer.net">99 Bottles of Beer</a>: Coded in Different Languages
+<br><a href="https://coderwall.com/welcome">Coderwall</a>: Great Ideas from people who do the heavy lifting in the world of IT. 
+<br><a href="http://www.w3schools.com/tags/default.asp">HTML Reference</a>: From w3schools.com
+<br><a href="http://docs.python-guide.org/en/latest/">The Hitchhiker's Guide to Python</a>: Train up on your Python scripting. 
 
 
 <br><b>Misc Geekery</b>
