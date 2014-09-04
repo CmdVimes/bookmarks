@@ -13,6 +13,7 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>OS X</b>
+<br><a href="http://www.cultofmac.com/">Cult of Mac:</a> Apple, OSX, and iOS news 
 <br><a href="http://hackercodex.com/guide/mac-osx-mavericks-10.9-configuration/">Hacker Codex:</a> Config OS X Mavericks
 <br><a href="http://www.alfredapp.com/">Alfred 2:</a> Productivity App for OS X
 <br><a href="http://paulherron.com/blog/simple_nginx_setup_with_homebrew/">nginx with Homebrew:</a> Setup guide on OS X
@@ -69,6 +70,8 @@ Collection of book marks I find useful and/or entertaining.
 
 
 <br><b>Misc Geekery</b>
+<br><a href="http://www.opsschool.org/en/latest/">OpsSchool:</a> Learn the ways of Command-Line-Fu
+<br><a href="http://static.nomachetejuggling.com/machete_order.html">Machete Order:</a> Best way to see Star Wars
 <br><a href="http://pissedoffadmins.com">PissedOffAdmins:</a> Aren't we all? (yes, we are)
 <br><a href="http://jenkins-ci.org">Jenkins:</a> Continuous Integration Tool. 
 <br><a href="http://www.rabbitmq.com/">RabbitMQ:</a> Open Source Message Broker.  
@@ -87,6 +90,12 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://sproutcore.com">Sproutcore:</a> and the <a href="http://guides.sproutcore.com">Guides:</a> Open-source JavaScript framework, allowing developers to create web applications
 <br><a href="http://www.html5rocks.com/en/">StackSocial:</a> Welcome to Geek Heaven
 <br><a href="http://lifehacker.com">LifeHacker:</a> You already now about this one
+
+
+<br><b>Food</b>
+<br><a href="http://www.wormulon.net">Wormulon:</a> A travel/food blog that will make you want to leave the house
+<br><a href="http://www.ivanramen.com/">Ivan Ramen:</a> Now in NYC. Go there, go now. NOW!
+<br><a href="http://www.spoonforkbacon.com/2011/09/boozy-bacon-jam/">Bacon Jam:</a> Yes, Bacon ALL The Things!
 
 
 <br><b>Autos</b>
