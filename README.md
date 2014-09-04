@@ -8,6 +8,8 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://rainbow.chard.org/2012/01/16/upgrading-solaris-10-to-solaris-11-things-you-should-know/">Upgrade Sol 10 to Sol 11:</a> Upgrading Solaris 10 to 11. 
 <br><a href="http://jsosic.wordpress.com/2013/01/01/expanding-zfs-zpool-raid/">Expanding ZFS zpool:</a> Make your ZFS pool bigger. 
 <br><a href="http://thegeekdiary.com/the-ultimate-solaris-sendmail-troubleshooting-guide/">Sendmail on Solaris:</a> Troubleshooting Guide
+<br><a href="http://troysunix.blogspot.com/2011/02/configuring-nfs-in-solaris.html">NFS in Solaris:</a> Troy Teaches NFS Configuration
+<br><a href="http://www.scalingbits.com/solaris/ips/configuration">IPS/Repo Config:</a> Sol 11 Repo and Server Config fron Scalingbits
 
 
 <br><b>OS X</b>
@@ -54,7 +56,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.rasplex.com/">RasPlex:</a> RPi PleX server guide. 
 
 
-<br><b>Programming</b>
+<br><b>Programming/Web Stuff</b>
 <br><a href="https://www.udemy.com/">Udemy:</a> Learn to Code
 <br><a href="https://www.codeschool.com">CodeSchool:</a> Also, Learn to Code
 <br><a href="https://panic.com/coda/">Coda 2:</a> Great editor for all kinds of coding.
@@ -62,6 +64,8 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="https://coderwall.com/welcome">Coderwall:</a> Great Ideas from people who do the heavy lifting in the world of IT. 
 <br><a href="http://www.w3schools.com/tags/default.asp">HTML Reference:</a> From w3schools.com
 <br><a href="http://docs.python-guide.org/en/latest/">The Hitchhiker's Guide to Python:</a> Train up on your Python scripting. 
+<br><a href="http://ghostforbeginners.com/">Ghost for Beginners:</a> Good Tutorial for setting up Ghost Blogging Server
+<br><a href="http://www.html5rocks.com/en/">HTML5 Rocks:</a> A Lot of Tutorials and Resources 
 
 
 <br><b>Misc Geekery</b>
@@ -80,12 +84,15 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.rhino3d.com">Rhinoceros:</a> Awesome 3D Software
 <br><a href="https://grandst.com/">Grand St:</a> Hardware Crowdsourcing Platform
 <br><a href="http://www.terrypratchettbooks.com">Sir Terry Pratchett:</a> Site for all things Pratchett
-<br><a href="http://sproutcore.com">Sproutcore:</a> and the <a href="http://guides.sproutcore.com">Guides:</a> Open-source JavaScript framework, allowing developers to create web applications.
+<br><a href="http://sproutcore.com">Sproutcore:</a> and the <a href="http://guides.sproutcore.com">Guides:</a> Open-source JavaScript framework, allowing developers to create web applications
+<br><a href="http://www.html5rocks.com/en/">StackSocial:</a> Welcome to Geek Heaven
+<br><a href="http://lifehacker.com">LifeHacker:</a> You already now about this one
 
 
 <br><b>Autos</b>
 <br><a href="http://jalopnik.com/">Jalopnik:</a> Too many articles on cars, and they are mostly well written. 
 <br><a href="https://www.youtube.com/watch?v=E9IWiTpWeiM">McLaren P1 vs. The Nordschleife:</a> The mighty McLaren hypercar runs the 'ring'. 
+<br><a href="http://jalopnik.com/the-ten-most-incredible-le-mans-moments-caught-on-video-527387890">Ten Incredible Moments @ LeMans:</a> LeMans is Magic
 
 
 <br><b>Cycling</b>
