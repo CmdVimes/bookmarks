@@ -16,6 +16,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.cultofmac.com/">Cult of Mac:</a> Apple, OSX, and iOS news 
 <br><a href="http://hackercodex.com/guide/mac-osx-mavericks-10.9-configuration/">Hacker Codex:</a> Config OS X Mavericks
 <br><a href="http://www.alfredapp.com/">Alfred 2:</a> Productivity App for OS X
+<br><a href="http://iterm2.com/index.html">iTerm2:</a> Much better than the default Terminal in OSX
 <br><a href="http://paulherron.com/blog/simple_nginx_setup_with_homebrew/">nginx with Homebrew:</a> Setup guide on OS X
 <br><a href="http://osxdaily.com/">OS X Daily:</a> Apple/Mac/iOS/OS X news. 
 
