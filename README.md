@@ -71,7 +71,9 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://ghostforbeginners.com/">Ghost for Beginners:</a> Good Tutorial for setting up Ghost Blogging Server
 <br><a href="http://www.html5rocks.com/en/">HTML5 Rocks:</a> A Lot of Tutorials and Resources 
 <br><a href="http://css-tricks.com/">CSS Tricks:</a> They're tricks. With CSS. Get it?
-
+<br><a href="http://www.checkman.io/please/">Please.JS:</a> The Polite Javascript Color Library
+<br><a href="http://clrs.cc/">Colors:</a> A nicer color palette for the web
+<br><a href="http://scotch.io/">Scotch.io:</a> Web design and development focused blog
 
 <br><b>Misc Geekery</b>
 <br><a href="http://www.opsschool.org/en/latest/">OpsSchool:</a> Learn the ways of Command-Line-Fu
