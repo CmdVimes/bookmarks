@@ -86,7 +86,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://static.nomachetejuggling.com/machete_order.html">Machete Order:</a> Best way to see Star Wars.
 <br><a href="http://pissedoffadmins.com">PissedOffAdmins:</a> Aren't we all? (yes, we are)
 <br><a href="http://jenkins-ci.org">Jenkins:</a> Continuous Integration Tool. 
-<br><a href="http://www.rabbitmq.com/">RabbitMQ:</a> Open Source Message Broker.  
+<br><a href="http://www.rabbitmq.com/">RabbitMQ:</a> Open Source Message Broker.
 <br><a href="http://hackaday.com/">Hack a Day:</a> See who/what is Hacking today. 
 <br><a href="http://cozy.io">Cozy:</a> A Personal Cloud, you can host, hack and delete.
 <br><a href="http://owncloud.org">OwnCloud:</a> Your Cloud, Your Way.
@@ -143,7 +143,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.reddit.com/r/football">Football:</a> Soccor to you Americans. 
 <br><a href="http://www.reddit.com/r/formula1">Formula One:</a> Fast, Load, Crazy, and that's just Bernie. 
 <br><a href="http://www.reddit.com/r/gadgets">Gadgets:</a> Plenty of things to waste your money on. 
-<br><a href="http://www.reddit.com/r/github">Github:</a> Github projects and contributors.  
+<br><a href="http://www.reddit.com/r/github">Github:</a> Github projects and contributors.
 <br><a href="http://www.reddit.com/r/Gunners">Gunners:</a> Arsenal. The only club that matters. 
 <br><a href="http://www.reddit.com/r/hacking">Hacking:</a> Have fun hacking things with your friends.
 <br><a href="http://www.reddit.com/r/html5">HTML5:</a> Our new standard. 
