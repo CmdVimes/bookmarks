@@ -124,7 +124,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.bikehacks.com/bikehacks/">Bike Hacks:</a> Hacks for your two wheeled, human powered ride. 
 
 
-<b>And the unholiest of all unholies:</b>
+<br><b>And the unholiest of all unholies:</b>
 <br><a href="http://www.reddit.com/">Reddit:</a> It will suck all your time and you <i>might even</i> learn something. 
 <br><br><i>Favorite Sub-Reddits</i>
 <br><a href="http://www.reddit.com/r/3Dprinting/">3Dprinting:</a> Print your ideas. 
