@@ -146,7 +146,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://www.reddit.com/r/DIY">DIY:</a> Do It Yourself. Make something. 
 <br><a href="http://www.reddit.com/r/firefly">Firefly:</a> Our favorite cancelled show. 
 <br><a href="http://www.reddit.com/r/football">Football:</a> Soccor to you Americans. 
-<br><a href="http://www.reddit.com/r/formula1">Formula One:</a> Fast, Load, Crazy, and that's just Bernie. 
+<br><a href="http://www.reddit.com/r/formula1">Formula One:</a> Fast, Loud, Crazy, and that's just Bernie. 
 <br><a href="http://www.reddit.com/r/gadgets">Gadgets:</a> Plenty of things to waste your money on. 
 <br><a href="http://www.reddit.com/r/github">Github:</a> Github projects and contributors.
 <br><a href="http://www.reddit.com/r/Gunners">Gunners:</a> Arsenal. The only club that matters. 
