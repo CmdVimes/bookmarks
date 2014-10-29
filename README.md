@@ -23,6 +23,7 @@ Collection of book marks I find useful and/or entertaining.
 <br><a href="http://paulherron.com/blog/simple_nginx_setup_with_homebrew/">nginx with Homebrew:</a> Setup guide on OS X
 <br><a href="http://osxdaily.com/">OS X Daily:</a> Apple/Mac/iOS/OS X news.
 <br><a href="http://support.apple.com/kb/HT5559?viewlocale=en_US&locale=en_US">Java for OS X 2014-001:</a>How to re-enable the Apple provided Java SE 6 Web Plugin.
+<br><a href="http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/">Ian Lunn:</a> Shows how to show/hide hidden files in OS X. 
 
 
 <br><b>iOS/iPhone</b>b>
